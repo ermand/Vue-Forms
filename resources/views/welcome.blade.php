@@ -13,7 +13,7 @@
             <div id="app" class="content">
                 <h2>Skills</h2>
                 <ul>
-                    <li v-for="skill in skills" v-text="skill"></li>
+                    {{-- <li v-for="skill in skills" v-text="skill"></li> --}}
                 </ul>
             </div>
         </div>
